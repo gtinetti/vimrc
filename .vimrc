@@ -193,8 +193,6 @@ set wrap "Wrap lines
 
 set number
 
-nnoremap <silent> <esc> :noh<cr><esc>
-
 """"""""""""""""""""""""""""""
 " => Visual mode related
 """"""""""""""""""""""""""""""
